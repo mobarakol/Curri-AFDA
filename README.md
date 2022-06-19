@@ -55,7 +55,7 @@ This work proposes the Curriculum-based Augmented Fourier Domain Adaptation (Cur
 More training commands are available in [exp.sh](https://github.com/lofrienger/Curri-AFDA/blob/main/exp.sh).
 
 ## Acknowledgement
-Some of the codes are adapted from [FedDG](https://github.com/liuquande/FedDG-ELCFS), [SWin-UNet](https://github.com/HuCaoFighting/Swin-Unet), and [robot-surgery-segmentation](https://github.com/ternaus/robot-surgery-segmentation).
+Some of the codes are adapted from [FedDG](https://github.com/liuquande/FedDG-ELCFS), [Swin-UNet](https://github.com/HuCaoFighting/Swin-Unet), and [robot-surgery-segmentation](https://github.com/ternaus/robot-surgery-segmentation).
 ## Citation
 ```
 @misc{dummy,
